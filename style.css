@@ -1,0 +1,117 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+*{
+    margin: 0;
+}
+nav{
+    background-color: hsl(0, 54%, 65%);
+    text-align: center;
+    height: 80px;
+    align-content: center;
+}
+nav a, a{
+    text-decoration: none;
+    margin: 25px;
+    
+}
+nav a, a:hover{
+    border-bottom: 2px solid white;
+}
+.end img{
+    width:500px ;
+    height:300px ;
+}
+.head{
+    background-image: url(tim-mossholder-UcUROHSJfRA-unsplash.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    margin-top: 5px;
+}
+input,textarea{
+    display: block;
+    width: 40%;
+    padding: 15px;
+    margin-top: 10px;
+}
+button{
+    display: block;
+    width: 10%;
+    margin-top: 10px;
+}
+.banner,.new,.end{
+    justify-content: center;
+display: flex;
+width: 100%;
+margin: auto;
+}
+.new div,.end div, .main div{
+    background: white;
+    width:20%;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.end{
+justify-content: center;
+}
+.end div{
+    width: 50%;
+
+}
+.new,.end{
+    margin-top: 20px;
+background-color: aliceblue;
+}
+.main{
+    margin: 10px;
+    width: 95%;
+}
+.main .three{
+    display: flex;
+    margin: 10px;
+    width: 100%;
+    height: 300px;
+}
+.main .down{
+    display: flex;
+    background-color: aliceblue;
+    margin: 20px;
+}
+.main{
+display: flex;
+margin: auto;
+background: whitesmoke;
+justify-content: center;
+}
+footer{
+    background-color: aliceblue;
+    height: 50px;
+}
+.end li{
+    list-style: none;
+    font-size:xx-large;
+    text-align: center;
+    font-weight: bolder;
+}
+
+footer{
+    text-align: center;
+}
+
+
+
+
+
+
+    
+
+
